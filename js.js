@@ -1,6 +1,6 @@
 'use strict'
 ;( function($, window, undefined) {
-
+// TODO rewrite everything
         // Create the defaults once
         var pluginName = 'keyShortcutFormatter', document = window.document, defaults = {
             domClass : 'key-shortcut',
