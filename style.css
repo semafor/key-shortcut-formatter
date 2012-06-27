@@ -1,0 +1,22 @@
+.key-shortcut {
+    white-space: nowrap;
+}
+.key {
+    display: inline-block;
+    background: none repeat scroll 0 0 #EFF0F2;
+    border-radius: 4px 4px 4px 4px;
+    border-top: 1px solid #F5F5F5;
+    color: #666;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #F5F5F5;
+    padding: 0px 5px;
+    font-size: 8pt;
+    line-height: 13pt;
+}
+.key-delimiter {
+    display: inline-block;
+    color: #aaa;
+    padding: 0 5px;
+}
+
