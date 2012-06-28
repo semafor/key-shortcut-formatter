@@ -10,6 +10,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Key Shortcut Formatter enhances the presentation of keyboard shortcuts with simple CSS and JavaScript
 
+== Description ==
+
+The plugin adds one js-file which searches through your blog and adds extra HTML markup to `.key-shortcut` elements. 
+
+A stylesheet is added that applies styling to the extra HTML markup.
+
+This results in `.key-shortcut` elements looking somewhat like keyboard buttons.
+
 == Installation ==
 
 1. Upload the key-shortcut-formatter directory to the /wp-content/plugins/ directory of your WordPress installation.
